@@ -13,6 +13,13 @@
 
 
 ### 4족보행 로봇
+#### 유스케이스
+![유스케이스](https://user-images.githubusercontent.com/71927210/129693664-14d55e45-32f5-48f3-bce1-1a21b56649a6.png)
+#### 시스템 순차 다이어그램
+![시스템 순차 다이어그램](https://user-images.githubusercontent.com/71927210/129693712-5cfd67fd-8d4e-43ca-8060-c7b00ad46a0f.png)
+#### 통신 다이어그램
+![통신다이어그램](https://user-images.githubusercontent.com/71927210/129693906-1240a73b-356b-4560-9b47-e63f70dacfe8.png)
+#### 결과
 ![4족보행로봇](https://user-images.githubusercontent.com/71927210/129693104-f20837da-f5a5-44ad-abd2-3001ccf81ed3.png) 
 - 4개의 서보모터를 활용하여 바퀴를 구성하였다.
 - LED를 부착하여 주행시 점등이 되도록 구성하였다.
